@@ -1,0 +1,7 @@
+final_set = ''
+set1 = '@#$%'
+set2 = '123456789'
+set3 = 'abcdefghijklmnopqrstuvwxyz'
+set4 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+set5 = 'il1Lo0O'
+set6 = '{}[]()/\\\'"~,.;:<>'
